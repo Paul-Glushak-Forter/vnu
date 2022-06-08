@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "VNU"
+name = "vnu"
 version = "0.1.0"
-description = "A small utility to automate \"uninstalling\" Node from Volta"
+description = "A small utility to automate \\\"uninstalling\\\" Node from Volta"
 authors = ["Paul Glushak <paul.glushak@forter.com>"]
+
 
 [tool.poetry.dependencies]
 python = "^3.8"
-
 
 [tool.poetry.dev-dependencies]
 
